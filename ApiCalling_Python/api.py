@@ -1,5 +1,7 @@
-import requests
+#learnt how request library is used and got good grip on API Handling in python
 
+
+import requests
 
 def Person_Data():
     url = "https://api.freeapi.app/api/v1/public/randomusers/user/random"
