@@ -1,3 +1,5 @@
+# this is same yutube video manager with db sqlite
+
 import sqlite3
 conn= sqlite3.connect("Youtube_manager.db")
 cur = conn.cursor()
